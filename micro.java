@@ -612,7 +612,7 @@ else  if (choice2==5)
 
 
 
- public class micro {
+ public class Main {
 
 
              
